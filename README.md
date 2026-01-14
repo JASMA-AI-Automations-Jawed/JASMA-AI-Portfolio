@@ -11,6 +11,7 @@ Focused on practical, real-world automation for business and operations.
 
 ## 🧠 Core Focus
 - Python
+- n8n
 - AI Agents & Agentic Workflows
 - LangChain / CrewAI (learning & projects)
 - Automation & Orchestration
@@ -23,6 +24,7 @@ Focused on practical, real-world automation for business and operations.
 
 ## 🔧 Technical Skills
 - Python
+- n8n
 - LLM APIs (OpenAI-style)
 - Agentic frameworks (learning & implementation)
 - REST APIs
